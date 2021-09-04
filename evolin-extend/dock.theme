@@ -1,0 +1,42 @@
+#Evolin - Extende Edition
+#
+#Created: January 2020
+#License: MIT © Alfredo F.
+#
+#Author: PT_Alfred
+#Social: https://mastodon.art/@PTAlfred
+
+
+[PlankTheme]
+TopRoundness=0,5
+BottomRoundness=0,5
+LineWidth=0,5
+InnerStrokeColor=0;;0;;0;;255
+OuterStrokeColor=255;;255;;255;;27
+FillStartColor=27;;27;;27;;71		
+FillEndColor=27;;27;;27;;211
+
+
+[PlankDockTheme]
+HorizPadding=19
+TopPadding=1
+BottomPadding=1
+ItemPadding=5
+IndicatorSize=3
+IconShadowSize=1
+UrgentBounceHeight=3
+LaunchBounceHeight=1
+FadeOpacity=1
+ClickTime=125
+UrgentBounceTime=600
+LaunchBounceTime=1750
+ActiveTime=975
+SlideTime=1750
+FadeTime=750
+HideTime=750
+GlowSize=75
+GlowTime=1750
+GlowPulseTime=1750
+UrgentHueShift=175
+ItemMoveTime=250
+CascadeHide=true
